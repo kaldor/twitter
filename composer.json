@@ -22,7 +22,7 @@
         "illuminate/support": "^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
         "guzzlehttp/guzzle": "^6.4 || ^7.0",
         "psr/log": "^1.1 || ^2.0 || ^3.0",
-        "nesbot/carbon": "^1.2 || ^2.26",
+        "nesbot/carbon": "^1.2 || ^2.26 || ^3.8.4",
         "guzzlehttp/oauth-subscriber": "^0.6",
         "php-di/php-di": "^7.0.2",
         "kamermans/guzzle-oauth2-subscriber": "^1.0",
